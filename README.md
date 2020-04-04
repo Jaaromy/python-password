@@ -19,7 +19,7 @@ python app.py --help
 #### Create a new user
 
 ```bash
-python app.py --user myuser --password coolpass --new
+python app.py --user myCooluser --password coolpass --new
 ```
 
 #### Create a new admin user
@@ -31,7 +31,7 @@ python app.py --user myadminguy --password securepass --new --admin
 #### Test password
 
 ```bash
-python app.py --user myuser --password coolpass
+python app.py --user myCooluser --password coolpass
 
 # Output:
 # Login Successful!
