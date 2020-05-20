@@ -4,7 +4,7 @@
 
 ### Installation
 
-1. Set up a virtual environment ([virtualenv docs](https://virtualenv.pypa.io/en/latest/userguide/#usage))
+1. Set up a virtual environment ([virtualenv docs](https://virtualenv.pypa.io/en/latest/user_guide.html))
 2. `pip install pip-tools`
 3. `pip-sync`
 
